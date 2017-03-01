@@ -1,0 +1,15 @@
+/.DS_Store
+/Card.class
+/ComboLevel.class
+/EasyLevel.class
+/EqualPairLevel.class
+/FlushLevel.class
+/GameLevel.class
+/GameManager.class
+/Hand.class
+/MemoryGame.class
+/RankTrioLevel.class
+/Score.class
+/SoundClass.class
+/StraightLevel.class
+/TurnsTakenCounterLabel.class
